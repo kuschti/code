@@ -1,0 +1,34 @@
+*** WPBundle Essence Changelog ***
+
+07.02.2011 - Version 0.1.4.1
+ * Changed query_posts in loop-home.php to show number of posts designated in Settings > Reading
+ * <!--more--> tag now works in loop-home.php
+
+23.01.2011 - Version 0.1.4
+ * Fixed meta box name from "meta" to "the_meta" which was causing a fatal error when saving posts.
+ * "What We Offer" now properly holds more than 3 services
+ * Single Portfolio shows all of the attachments, instead of 5.
+
+19.01.2011 - Version 0.1.3.3
+ * Fixed another fatal error in single.php
+
+18.01.2011 - Version 0.1.3.2
+ * Fixed fatal error in single.php line 39.
+
+26.12.2010 - Version 0.1.3.1
+ * Fixed variable name causing some servers to throw an error in theme-options.php line 235.
+ * Added == "true" to includes on homepage. Woo options saves as string.
+ * Added placeholder fallback for other browsers. (jquery.custom.js)
+
+20.12.2010 - Version 0.1.3
+ * Added default .po file for translation.
+
+17.12.2010 - Version 0.1.2
+ * Removed actions from theme-actions.php
+
+15.12.2010 - Version 0.1.1
+ * Moved some theme options to more appropriate locations/
+ * Added documentation.
+	
+08.12.2010 - Version 0.1
+ * First release!

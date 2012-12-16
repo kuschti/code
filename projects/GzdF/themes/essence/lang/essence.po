@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Essence\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-20 12:28-0500\n"
+"PO-Revision-Date: 2010-12-20 12:28-0500\n"
+"Last-Translator: Spencer Finnell <spencerfinnell@gmail.com>\n"
+"Language-Team: WPBundle <support@wpbundle.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:17
+#, php-format
+msgid "Okay, no you <strong>haven&#39;t really broken anything</strong>, but the page you were looking for does not exist. We suggest you go to the <a href=\"%s\" title=\"Homepage\">homepage</a> and start again or use the <strong>search</strong> feature in the top right hand corner to find what you were looking for."
+msgstr ""
+
+#: ../archive.php:19
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:21
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:23
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:25
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:12
+#: ../comments.php:30
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:40
+#: ../single.php:37
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:40
+#: ../single.php:37
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:40
+#: ../single.php:37
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Submit Message &rarr;"
+msgstr ""
+
+#: ../footer.php:21
+msgid "Designed with love by <a href=\"http://wpbundle.com\">WPBundle</a>. Powered by <a href=\"http://wordpress.org\">WordPress</a> &amp; <a href=\"http://woothemes.com\">WooThemes</a>"
+msgstr ""
+
+#: ../footer.php:23
+#, php-format
+msgid "&copy; 2010 %s"
+msgstr ""
+
+#: ../header.php:30
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../header.php:82
+msgid "Down"
+msgstr ""
+
+#: ../header.php:83
+msgid "Up"
+msgstr ""
+
+#: ../index.php:15
+#: ../single.php:17
+msgid "Blog Entries"
+msgstr ""
+
+#: ../page.php:23
+#: ../single.php:27
+#, php-format
+msgid "Written by %s at %s on %s"
+msgstr ""
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: ../single-portfolio.php:70
+msgid "The Project &amp; Brief"
+msgstr ""
+
+#: ../single-portfolio.php:77
+msgid "View Live Project &nbsp;&rarr;"
+msgstr ""
+
+#: ../single.php:35
+#, php-format
+msgid "in %s &rarr;"
+msgstr ""
+
+#: ../single.php:39
+msgid "Tweet This"
+msgstr ""
+
+#: ../single.php:41
+msgid "Like This"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2146
+msgid "Woo - Custom Nav Menu"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2335
+msgid "Select Menu:"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2361
+msgid "Title:"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2370
+msgid "Advanced Options:"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2390
+msgid "Wrap in container DIV:"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2403
+msgid "Wrap in container UL:"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2418
+msgid "Show Top Level Descriptions:"
+msgstr ""
+
+#: ../functions/admin-custom-nav.php:2438
+msgid "The Custom Menu has not been configured correctly.  Please check your theme settings before adding this widget."
+msgstr ""
+
+#: ../functions/admin-express-functions.php:194
+msgid "You are not allowed to upload files to this site."
+msgstr ""
+
+#: ../functions/admin-express-functions.php:220
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr ""
+
+#: ../functions/admin-functions.php:1421
+msgid "Search Results"
+msgstr ""
+
+#: ../functions/admin-functions.php:1422
+msgid "Author Archives"
+msgstr ""
+
+#: ../functions/admin-functions.php:1425
+msgid "Category Archive"
+msgstr ""
+
+#: ../functions/admin-functions.php:1426
+msgid " Archive"
+msgstr ""
+
+#: ../functions/admin-functions.php:1427
+msgid "Daily Archive"
+msgstr ""
+
+#: ../functions/admin-functions.php:1428
+msgid "Monthly Archive"
+msgstr ""
+
+#: ../functions/admin-functions.php:1429
+msgid "Yearly Archive"
+msgstr ""
+
+#: ../functions/admin-functions.php:1430
+msgid "Tag Archive"
+msgstr ""
+
+#: ../functions/admin-medialibrary-uploader.php:48
+msgid "WooFramework Internal Container"
+msgstr ""
+
+#: ../functions/admin-medialibrary-uploader.php:174
+msgid "Upload"
+msgstr ""
+
+#: ../functions/admin-medialibrary-uploader.php:211
+msgid "View File"
+msgstr ""
+
+#: ../functions/admin-medialibrary-uploader.php:404
+msgid "Gallery"
+msgstr ""
+
+#: ../functions/admin-medialibrary-uploader.php:404
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../includes/theme-comments.php:23
+#, php-format
+msgid "In Reply to %s"
+msgstr ""
+
+#: ../includes/theme-comments.php:37
+#, php-format
+msgid "%s <small>%s ago</small>"
+msgstr ""
+
+#: ../includes/theme-comments.php:41
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../includes/theme-functions.php:88
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../includes/theme-functions.php:89
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../includes/theme-functions.php:109
+#: ../includes/theme-functions.php:110
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/theme-functions.php:111
+msgid "Add New"
+msgstr ""
+
+#: ../includes/theme-functions.php:112
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../includes/theme-functions.php:113
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../includes/theme-functions.php:114
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../includes/theme-functions.php:115
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../includes/theme-functions.php:116
+msgid "No Portfolio Items Found"
+msgstr ""
+
+#: ../includes/theme-functions.php:117
+msgid "No Portfolio items found in trash"
+msgstr ""
+
+#: ../includes/theme-plugins.php:73
+#, php-format
+msgid "Page %d"
+msgstr ""
+
+#: ../includes/templates/blog.php:15
+msgid "Explore The Blog &nbsp;&rarr;"
+msgstr ""
+
+#: ../includes/templates/contact.php:15
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: ../includes/templates/contact.php:23
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: ../includes/templates/contact.php:26
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../includes/templates/contact.php:34
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: ../includes/templates/contact.php:48
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: ../includes/templates/contact.php:51
+#: ../includes/templates/contact.php:58
+msgid "From: "
+msgstr ""
+
+#: ../includes/templates/contact.php:51
+msgid "Reply-To: "
+msgstr ""
+
+#: ../includes/templates/contact.php:57
+msgid "You emailed "
+msgstr ""
+
+#: ../includes/templates/contact.php:78
+msgid "Your email was successfully sent."
+msgstr ""
+
+#: ../includes/templates/contact.php:91
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: ../includes/templates/contact.php:95
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#: ../includes/templates/contact.php:145
+msgid "You forgot to enter your"
+msgstr ""
+
+#: ../includes/templates/contact.php:152
+msgid "You entered an invalid"
+msgstr ""
+
+#: ../includes/templates/contact.php:162
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr ""
+
+#: ../includes/templates/dribbble.php:28
+msgid "See More Shots &nbsp;&rarr;"
+msgstr ""
+
+#: ../includes/templates/loop-home.php:21
+#: ../includes/templates/loop.php:17
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: ../includes/templates/loop.php:43
+#, php-format
+msgid "%d of %d"
+msgstr ""
+
+#: ../includes/templates/offer.php:54
+msgid "Continue Reading &nbsp;&rarr;"
+msgstr ""
+
+#: ../includes/templates/portfolio.php:41
+msgid "Browse Portfolio &nbsp;&rarr;"
+msgstr ""
+
+#: ../includes/templates/team.php:23
+msgid "Find Out More Info &nbsp;&rarr;"
+msgstr ""
+
+#: ../includes/templates/twitter.php:24
+#, php-format
+msgid "Latest from @%s"
+msgstr ""
+
+#: ../includes/templates/twitter.php:28
+#: ../includes/templates/twitter.php:45
+#, php-format
+msgid "%s Ago"
+msgstr ""
+
+#: ../includes/templates/twitter.php:32
+msgid "Follow me on Twitter &nbsp;&rarr;"
+msgstr ""
+

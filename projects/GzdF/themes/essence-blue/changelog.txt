@@ -1,0 +1,4 @@
+*** WPBundle Essence Blue Changelog ***
+	
+08.12.2010 - Version 1.0
+ * First release!

@@ -1,0 +1,28 @@
+html .mceContentBody {
+	font:0.88em/21px Helvetica, Arial, sans-serif; color:#829397;
+}
+
+h2 {
+	margin:0; padding:0;
+	font:3.07em/normal "BebasNeueRegular", Helvetica, Arial, sans-serif; color:#455559;
+	text-shadow:rgba( 255, 255, .82 ) 0 1px 0;
+}
+
+h3 {
+	font:1.86em "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; color:#72838f;
+}
+
+h6 {
+	font:1.50em/24px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; color:#57595e;
+	font-weight:400;
+	padding:8px 0 10px 0;
+	margin:0;
+}
+
+a:link, a:active, a:visited {
+	color:#455559; text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
