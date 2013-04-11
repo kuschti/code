@@ -19,11 +19,11 @@
 				
 			<ul id="portfolio-list">
 				<li class="portfolio-item">
-					<a href="http://goo.gl/maps/dJUr" title="Google Maps" rel="bookmark">
+					<a href="http://goo.gl/maps/pvUSv" title="Google Maps" rel="bookmark">
 						<abbr class="date">Karte</abbr>
 						<span class="overlay">
-							<strong>Seestrasse 15</strong>
-							<small>6300 Zug</small>
+							<strong>Albisstrasse 19</strong>
+							<small>8915 Hausen am Albis</small>
 						</span>
 						<?php woo_image('link=img&width=395&height=126' ); ?>
 					</a>
